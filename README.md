@@ -29,8 +29,13 @@ Trabalho executado via Excel: Tabela dinâmica, gráfico, formatações e funç�
 
 [AULA13_03.xlsx](https://github.com/user-attachments/files/26802376/AULA13_03.xlsx)
 
+## Gráfico de Multas Pagas do Governo do Estado de São Paulo - 09/04
 
+Trabalho executado via Excel: Tabela dinâmica, gráfico, formatações e funções (MAIOR, SOMA.SE)
 
+<img width="986" height="389" alt="image" src="https://github.com/user-attachments/assets/61be7e8a-71c0-4746-9ec8-bb45119e1102" />
+
+[AULA0904.xlsx](https://github.com/user-attachments/files/26802676/AULA0904.xlsx)
 
 
 
