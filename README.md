@@ -37,6 +37,16 @@ Trabalho executado via Excel: Tabela dinâmica, gráfico, formatações e funç�
 
 [AULA0904.xlsx](https://github.com/user-attachments/files/26802676/AULA0904.xlsx)
 
+## Tabelas e Gráfico de Multas Vencidas do Governo do Estado de São Paulo - 10/04
+Trabalho executado via Excel: Tabela dinâmica, gráfico, formatações, filtros, formatação condicional e funções (MAIOR, SOMA.SE, CONT.SE, PROCV)
+
+<img width="1292" height="541" alt="image" src="https://github.com/user-attachments/assets/4e00b397-5351-49c8-a19b-aa11dfa7ede3" />
+
+[AULA10_04.xlsx](https://github.com/user-attachments/files/26803656/AULA10_04.xlsx)
+
+
+
+
 
 
 
