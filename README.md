@@ -2,6 +2,7 @@
 Atividades realizadas na disciplina de Informática do CST de Logística.
 ## Aprsentação em equipe utilizando software de design gráfico
 Trabalho executado via Canva: Animações, figuras, formas e templates.
+
 <img width="1198" height="667" alt="image" src="https://github.com/user-attachments/assets/46c05735-0632-4832-87dd-beba5d67cb5a" />
 https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content=DAHBPnoKum4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
@@ -9,15 +10,27 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 
 ## Gráfico de Receita da Prefeitura de São José dos Campos - 27/02
 Trabalho executado via Excel: Gráfico dinâmico, tabela, formatação e uso de funções (PROCV)
+
 <img width="1114" height="385" alt="image" src="https://github.com/user-attachments/assets/7606d94d-2e64-489e-ac90-4b177ef21cb9" />
 
 [Aula2702.xlsx](https://github.com/user-attachments/files/26800880/Aula2702.xlsx)
  
 ## Gráfico de Receita da Prefeitura de São José dos Campos - 12/03
-Trabalho executado via Excel: Tabela dinâmica, gráfico e formatações.
-<img width="1336" height="530" alt="image" src="https://github.com/user-attachments/assets/c754339f-91da-4cd9-99a3-e64c6377aa6d" />
+Trabalho executado via Excel: Tabela dinâmica, gráfico, formatações e funções (CONT.SE , SOMA.SE) 
 
-[AULA1203.xlsx](https://github.com/user-attachments/files/26801248/AULA1203.xlsx)
+<img width="1336" height="530" alt="image" src="https://github.com/user-attachments/assets/c754339f-91da-4cd9-99a3-e64c6377aa6d" />
+[AULA12_03.xlsx](https://github.com/user-attachments/files/26802192/AULA12_03.xlsx)
+
+## Gráfico de Fornecedores da Prefeitura de São José dos Campos - 13/03
+Trabalho executado via Excel: Tabela dinâmica, gráfico, formatações e funções (CONT.SE , SOMA.SE)
+
+
+<img width="962" height="378" alt="image" src="https://github.com/user-attachments/assets/b3217451-81fb-4811-8953-b9a8a5063b00" />
+
+[AULA13_03.xlsx](https://github.com/user-attachments/files/26802376/AULA13_03.xlsx)
+
+
+
 
 
 
