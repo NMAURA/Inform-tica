@@ -44,6 +44,10 @@ Trabalho executado via Excel: Tabela dinâmica, gráfico, formatações, filtros
 
 [AULA10_04.xlsx](https://github.com/user-attachments/files/26803656/AULA10_04.xlsx)
 
+## Visibilidade com Comparativo de Vendas de Sorvetes x Cervejas em Função da Temperatura - 22/05
+Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados
+
+<img width="970" height="751" alt="image" src="https://github.com/user-attachments/assets/70462e52-2027-4d64-9de5-6e7d0f22f3cd" />
 
 
 
