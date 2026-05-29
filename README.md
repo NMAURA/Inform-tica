@@ -49,6 +49,11 @@ Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, T
 
 <img width="970" height="751" alt="image" src="https://github.com/user-attachments/assets/70462e52-2027-4d64-9de5-6e7d0f22f3cd" />
 
+## Visibilidade com Dados de Investimentos Captados do Governo de SP - PROVA - 28/05
+Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados, Mapas e Segmentações
+
+<img width="1268" height="715" alt="image" src="https://github.com/user-attachments/assets/80a5d8c1-2b0a-40e0-af33-206c309f9e0c" />
+
 
 
 
