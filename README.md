@@ -44,6 +44,16 @@ Trabalho executado via Excel: Tabela dinâmica, gráfico, formatações, filtros
 
 [AULA10_04.xlsx](https://github.com/user-attachments/files/26803656/AULA10_04.xlsx)
 
+## Vsibilidade com Dados de Sinistros do Governo do Estado de São Paulo - ?
+Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados
+
+<img width="1314" height="738" alt="image" src="https://github.com/user-attachments/assets/f1156749-734a-41d6-9eac-b11004b18723" />
+
+
+
+
+
+
 ## Visibilidade com Comparativo de Vendas de Sorvetes x Cervejas em Função da Temperatura - 22/05
 Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados
 
