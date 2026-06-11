@@ -69,8 +69,17 @@ Excel:
 Python (Google Colab):
 <img width="930" height="766" alt="image" src="https://github.com/user-attachments/assets/1fd0f501-4f7d-4452-b920-04e0e87ebdb4" />
 
+## Regressão Linear com dados sobre a qualidade do vinho - Atividade 10
+Trabalho executado via Excel e Python: Gráficos, Tratamento de Dados, Regressão Linear, Biblioteca Pandas
+Excel:
+<img width="1565" height="537" alt="image" src="https://github.com/user-attachments/assets/faadaa54-1c50-4162-9d4f-6bd58b27f13a" />
 
-## Visibilidade com Comparativo de Vendas de Sorvetes x Cervejas em Função da Temperatura - Atividade 11
+Python (Google Colab):
+<img width="1663" height="409" alt="image" src="https://github.com/user-attachments/assets/03e0286a-d918-43fd-a61c-6778ff974c21" />
+
+
+
+## Visibilidade com Comparativo de Vendas de Sorvetes x Cervejas em Função da Temperatura - Atividade 12
 Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados
 
 <img width="970" height="751" alt="image" src="https://github.com/user-attachments/assets/70462e52-2027-4d64-9de5-6e7d0f22f3cd" />
