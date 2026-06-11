@@ -59,10 +59,26 @@ Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, T
 
 <img width="970" height="751" alt="image" src="https://github.com/user-attachments/assets/70462e52-2027-4d64-9de5-6e7d0f22f3cd" />
 
+## Visibilidade com Dados Abertos do Estado de SP - 23/04
+Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados
+
+<img width="920" height="499" alt="image" src="https://github.com/user-attachments/assets/5a3cf820-cdc2-4604-a9ab-ddfe0f65e033" />
+
+
+
 ## Visibilidade com Dados de Investimentos Captados do Governo de SP - PROVA - 28/05
 Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados, Mapas e Segmentações
 
 <img width="1268" height="715" alt="image" src="https://github.com/user-attachments/assets/80a5d8c1-2b0a-40e0-af33-206c309f9e0c" />
+
+## Visibilidade com Dados Abertos do Estado de SP - 29/05
+Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados, Fórmulas DAX, Modelagem de Dados
+
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/6caa235f-8895-4d8e-8506-57fbb16719ae" />
+
+
+## Visibilidade com Dados Abertos do Estado de SP + 3 Questões
+
 
 
 
