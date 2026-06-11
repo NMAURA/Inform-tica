@@ -69,7 +69,7 @@ Excel:
 Python (Google Colab):
 <img width="930" height="766" alt="image" src="https://github.com/user-attachments/assets/1fd0f501-4f7d-4452-b920-04e0e87ebdb4" />
 
-## Regressão Linear com dados sobre a qualidade do vinho - Atividade 10
+## Regressão Linear com dados sobre a qualidade do vinho - Atividade 11
 Trabalho executado via Excel e Python: Gráficos, Tratamento de Dados, Regressão Linear, Biblioteca Pandas
 Excel:
 <img width="1565" height="537" alt="image" src="https://github.com/user-attachments/assets/faadaa54-1c50-4162-9d4f-6bd58b27f13a" />
