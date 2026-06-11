@@ -54,6 +54,10 @@ Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, T
 
 <img width="1342" height="733" alt="image" src="https://github.com/user-attachments/assets/f3d7d187-a2d3-4ab1-98d1-3175eac1b134" />
 
+## Visibilidade com Dados Abertos do Estado de SP - Atividade 9
+Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados, Fórmulas DAX, Modelagem de Dados
+
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/6caa235f-8895-4d8e-8506-57fbb16719ae" />
 
 ## Visibilidade com Comparativo de Vendas de Sorvetes x Cervejas em Função da Temperatura - 22/05
 Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados
@@ -72,13 +76,10 @@ Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, T
 
 <img width="1268" height="715" alt="image" src="https://github.com/user-attachments/assets/80a5d8c1-2b0a-40e0-af33-206c309f9e0c" />
 
-## Visibilidade com Dados Abertos do Estado de SP 
-Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados, Fórmulas DAX, Modelagem de Dados
-
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/6caa235f-8895-4d8e-8506-57fbb16719ae" />
 
 
-## Visibilidade com Dados Abertos do Estado de SP + 3 Questões
+
+
 
 
 
