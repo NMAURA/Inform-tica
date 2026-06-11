@@ -44,14 +44,15 @@ Trabalho executado via Excel: Tabela dinâmica, gráfico, formatações, filtros
 
 [AULA10_04.xlsx](https://github.com/user-attachments/files/26803656/AULA10_04.xlsx)
 
-## Vsibilidade com Dados de Sinistros do Governo do Estado de São Paulo - ?
+## Vsibilidade com Dados de Sinistros do Governo do Estado de São Paulo - Atividade 7
 Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados
 
 <img width="1314" height="738" alt="image" src="https://github.com/user-attachments/assets/f1156749-734a-41d6-9eac-b11004b18723" />
 
+## Visibilidade com Dados Abertos do Estado de SP sobre Meio Ambiente - Atividade 8
+Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados
 
-
-
+<img width="1342" height="733" alt="image" src="https://github.com/user-attachments/assets/f3d7d187-a2d3-4ab1-98d1-3175eac1b134" />
 
 
 ## Visibilidade com Comparativo de Vendas de Sorvetes x Cervejas em Função da Temperatura - 22/05
@@ -66,18 +67,19 @@ Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, T
 
 
 
-## Visibilidade com Dados de Investimentos Captados do Governo de SP - PROVA - 28/05
+## Visibilidade com Dados de Investimentos Captados do Governo de SP - PROVA 
 Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados, Mapas e Segmentações
 
 <img width="1268" height="715" alt="image" src="https://github.com/user-attachments/assets/80a5d8c1-2b0a-40e0-af33-206c309f9e0c" />
 
-## Visibilidade com Dados Abertos do Estado de SP - 29/05
+## Visibilidade com Dados Abertos do Estado de SP 
 Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados, Fórmulas DAX, Modelagem de Dados
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/6caa235f-8895-4d8e-8506-57fbb16719ae" />
 
 
 ## Visibilidade com Dados Abertos do Estado de SP + 3 Questões
+
 
 
 
