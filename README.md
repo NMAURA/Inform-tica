@@ -62,14 +62,19 @@ Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, T
 
 
 ## Regressão Linear com dados da tabela Ice Cream vs Temperature - Atividade 10
-Trabalho executado via Excel: Gráficos, Tratamento de Dados, Regressão Linear
-
+Trabalho executado via Excel e Python: Gráficos, Tratamento de Dados, Regressão Linear, Biblioteca Pandas
+Excel:
 <img width="1259" height="561" alt="image" src="https://github.com/user-attachments/assets/7b0bc43e-26b5-4741-9378-067aa1143365" />
+
+Python (Google Colab):
+<img width="930" height="766" alt="image" src="https://github.com/user-attachments/assets/1fd0f501-4f7d-4452-b920-04e0e87ebdb4" />
+
 
 ## Visibilidade com Comparativo de Vendas de Sorvetes x Cervejas em Função da Temperatura - Atividade 11
 Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados
 
 <img width="970" height="751" alt="image" src="https://github.com/user-attachments/assets/70462e52-2027-4d64-9de5-6e7d0f22f3cd" />
+
 
 
 ## Visibilidade com Dados de Investimentos Captados do Governo de SP - PROVA 
