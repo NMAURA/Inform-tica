@@ -59,16 +59,17 @@ Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, T
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/6caa235f-8895-4d8e-8506-57fbb16719ae" />
 
-## Visibilidade com Comparativo de Vendas de Sorvetes x Cervejas em Função da Temperatura - 22/05
+
+
+## Regressão Linear com dados da tabela Ice Cream vs Temperature - Atividade 10
+Trabalho executado via Excel: Gráficos, Tratamento de Dados, Regressão Linear
+
+<img width="1259" height="561" alt="image" src="https://github.com/user-attachments/assets/7b0bc43e-26b5-4741-9378-067aa1143365" />
+
+## Visibilidade com Comparativo de Vendas de Sorvetes x Cervejas em Função da Temperatura - Atividade 11
 Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados
 
 <img width="970" height="751" alt="image" src="https://github.com/user-attachments/assets/70462e52-2027-4d64-9de5-6e7d0f22f3cd" />
-
-## Visibilidade com Dados Abertos do Estado de SP - 23/04
-Trabalho executado via Excel e Power BI: Tabelas tratadas, Gráficos, Filtros, Tratamento de Dados
-
-<img width="920" height="499" alt="image" src="https://github.com/user-attachments/assets/5a3cf820-cdc2-4604-a9ab-ddfe0f65e033" />
-
 
 
 ## Visibilidade com Dados de Investimentos Captados do Governo de SP - PROVA 
